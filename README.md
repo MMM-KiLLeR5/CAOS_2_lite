@@ -33,3 +33,7 @@ echo "CHAT_ID=ВАШ_CHAT_ID" | sudo tee /dev/telegram_notifier # Задаём c
 
 echo "MSG=Hello World!" | sudo tee /dev/telegram_notifier # С кириллицей пока что были проблемы
 ```
+
+4. Результаты тестирование:
+
+![Пример использования](Вставленное изображение.png)
